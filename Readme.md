@@ -22,7 +22,7 @@ Project ini dibuat sebagai latihan pengembangan frontend menggunakan teknologi w
 ---
 
 ## 📸 Tampilan Aplikasi
-(images/bg.png)
+![Background](images/bg.png)
 
 ---
 
